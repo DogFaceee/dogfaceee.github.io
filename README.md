@@ -3,12 +3,17 @@
 
 
 
-![MR_01](https://user-images.githubusercontent.com/80227452/138187422-213c2a0a-4197-4503-9d3b-0486e1b33035.jpg)
-![MR_13](https://user-images.githubusercontent.com/80227452/137813495-de74ea34-d6d0-4401-8fcd-8b2c6d855398.jpg)
-![MR_06](https://user-images.githubusercontent.com/80227452/137813523-2539d764-72ee-4ae9-b42b-cf91cc32cbde.jpg)
-![MR_10](https://user-images.githubusercontent.com/80227452/137813538-9cc63d60-f084-4b09-b5bb-3cda87ac7911.jpg)
+Background Image:
 ![MR_10_crop](https://user-images.githubusercontent.com/80227452/137837955-a0802e33-72fe-4e1c-8fd6-5b1ada72af0d.jpg)
-![MR_11_copy](https://user-images.githubusercontent.com/80227452/137838088-698e5134-8a34-44d5-9680-e90d5136720d.jpg)
 
 
+Banner Image:
+![MR_01_copy_smaller](https://user-images.githubusercontent.com/80227452/138245591-cc754ef7-053a-4a39-be37-04d5c60933ae.jpg)
+Post Images:
 ![MR_02_smaller_ferny](https://user-images.githubusercontent.com/80227452/138235538-25935034-c8c9-4335-a309-8f026dca1d37.jpg)
+![MR_05_smaller_carpeted](https://user-images.githubusercontent.com/80227452/138238856-071552d0-23b8-4d35-950e-73a3a08d81fd.jpg)
+![MR_08_smaller_fluffymoss](https://user-images.githubusercontent.com/80227452/138238858-40fbc705-be39-4c05-95ec-dd0225f69cdb.jpg)
+![MR_16_smaller_lichens](https://user-images.githubusercontent.com/80227452/138238859-46e3fdb3-12d7-4546-99f5-958a01b9c8d4.jpg)
+![MR_19_smaller_brookside](https://user-images.githubusercontent.com/80227452/138238862-3fe67a27-d008-4077-b8ce-4440652ec8b7.jpg)
+Contact Page Image:
+![MR_07_smaller_fluffrock](https://user-images.githubusercontent.com/80227452/138248125-888109ae-7ccc-4da2-b97a-f4cf06cd3aee.jpg)
